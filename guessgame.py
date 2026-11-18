@@ -16,7 +16,7 @@ def calculator():
             except ValueError:
                 print("Invalid numeric input.")
         else:
-            print("Invalid choice.")
+            print("Invalid choice !")
 
 if __name__ == "__main__":
     calculator()
